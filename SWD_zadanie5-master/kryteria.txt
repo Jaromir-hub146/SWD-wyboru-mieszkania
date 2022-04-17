@@ -1,0 +1,19 @@
+cena mieszkania
+metrarz mieszkania
+oplaty
+ocena lokalizacji - komunikacja miejsca (1-10)
+ocena lokalizacji - odległość do marketu
+ocena lokalizacji - odległość do piekarni
+ocena lokalizacji - ocena ruchu w okolicy
+ocena lokalizacji - głośność okolicy
+ocena lokalizacji - odległość do parku
+ocena lokalizacji - bezpieczeństwo okolicy
+ocena lokalizacji - ocena widoku z okna
+umeblowanie (bool)
+garaż (bool)
+winda (bool)
+ilość pokoi
+rok budowy
+klimatyzacja (bool)
+il. kondygnacji
+prędkość internetu kablowego
